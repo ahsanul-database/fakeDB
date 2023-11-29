@@ -100,5 +100,55 @@
     "image" : "https://images.unsplash.com/photo-1547448415-e9f5b28e570d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "historical_place": "Kremlin",
     "details": "The Moscow Kremlin in Russia is a historic fortress complex with cathedrals, palaces, and the official residence of the President. It represents Russian political and cultural history."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Sundarbans",
+    "details": "The Sundarbans, located in the southwestern part of Bangladesh, is the largest mangrove forest in the world. It is a UNESCO World Heritage Site and home to the Bengal tiger. The Sundarbans play a crucial role in maintaining ecological balance and protecting the coastline from natural disasters."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Ahsan Manzil",
+    "details": "Ahsan Manzil, situated in Dhaka, is a historic palace that served as the official residential palace of the Nawabs of Dhaka. Built in the Indo-Saracenic Revival architecture, it is a significant landmark representing the cultural heritage of Bangladesh."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Lalbagh Fort",
+    "details": "Lalbagh Fort, located in the heart of Dhaka, is an incomplete 17th-century Mughal fort complex. Commissioned by Prince Muhammad Azam during the rule of his father Emperor Aurangzeb, it showcases impressive Mughal architecture and is a popular historical site."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Sixty Dome Mosque (Shat Gombuj Masjid)",
+    "details": "The Sixty Dome Mosque, located in Bagerhat, is a UNESCO World Heritage Site. Built during the Bengal Sultanate, it is one of the largest mosques in the Indian subcontinent, known for its sixty domes and impressive brick architecture."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Jatiyo Sangsad Bhaban",
+    "details": "Jatiyo Sangsad Bhaban, the National Parliament House, is an architectural marvel in Dhaka. Designed by the famous architect Louis Kahn, it symbolizes the rich cultural heritage and the spirit of an independent Bangladesh."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Mahasthangarh",
+    "details": "Mahasthangarh, located near Bogura, is one of the earliest urban archaeological sites in Bangladesh. It dates back to the 3rd century BCE and was the ancient capital of the Pundra Kingdom. The site includes ancient ruins, citadels, and historical artifacts."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Sonargaon",
+    "details": "Sonargaon, also known as the 'City of Gold,' is a historic town near Dhaka. It was the capital of the medieval Bengali rulers and later served as a trading center during the Mughal era. The Panam Nagar area in Sonargaon preserves well-maintained colonial architecture."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Jangalbari Fort",
+    "details": "Jangalbari Fort, situated in the Tangail district, is a historic fort built during the 17th century by Mughal Subahdar Islam Khan. It played a significant role in protecting the region from external threats and is an example of Mughal military architecture."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Shah Jalal University of Science and Technology (SUST)",
+    "details": "Shah Jalal University of Science and Technology, located in Sylhet, has historical significance as it houses the mausoleum of Hazrat Shah Jalal, a revered Sufi saint. The university campus includes the impressive shrine and a mosque."
+  },
+  {
+    "country": "Bangladesh",
+    "historical_place": "Baitul Mukarram National Mosque",
+    "details": "Baitul Mukarram, located in Dhaka, is the national mosque of Bangladesh. It is the 10th largest mosque in the world and a symbol of the country's Islamic heritage. The mosque's modern architecture and grandeur make it a significant religious landmark."
   }
 ]
