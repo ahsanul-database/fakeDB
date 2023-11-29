@@ -1,6 +1,4 @@
-Certainly! You can represent the array of objects in JSON format like this:
 
-```json
 [
   {
     "index": 1,
