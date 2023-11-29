@@ -103,6 +103,11 @@
   },
   {
     "country": "Bangladesh",
+    "historical_place":"Jagannath University",
+    "details": "Jagannath University in Dhaka, Bangladesh, has historical significance dating back to its establishment as Jagannath College in 1858. Renamed and upgraded to a university in 2005, it reflects cultural ties with the Indian subcontinent. The institution has been a center for educational excellence, contributing to various academic disciplines and research. It has played a role in shaping the intellectual, social, and political landscape of Bangladesh, fostering student activism and producing graduates who have made significant contributions to society. The university's ability to navigate challenges adds to its historical narrative."
+  },
+  {
+    "country": "Bangladesh",
     "historical_place": "Sundarbans",
     "details": "The Sundarbans, located in the southwestern part of Bangladesh, is the largest mangrove forest in the world. It is a UNESCO World Heritage Site and home to the Bengal tiger. The Sundarbans play a crucial role in maintaining ecological balance and protecting the coastline from natural disasters."
   },
