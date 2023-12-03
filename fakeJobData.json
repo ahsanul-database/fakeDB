@@ -10,6 +10,8 @@
     "location": "San Francisco, CA",
     "remote": "true",
     "fullTime": "false",
+        "experience": "2+ years of software development experience",
+
     "responsibility": "Develop and maintain software applications, collaborate with cross-functional teams.",
     "requirements": "Bachelor's degree in Computer Science, proficiency in Java and Python.",
     "contact": {
@@ -28,6 +30,8 @@
     "logo":"https://static.wixstatic.com/media/1302f4_6bf09ae9fe054976897d8cccd9f403df~mv2.png",
     "remote": "false",
     "fullTime": "false",
+        "experience": "3+ years of marketing experience",
+
     "responsibility": "Plan and execute marketing strategies, analyze campaign performance.",
     "requirements": "Bachelor's degree in Marketing, 3+ years of marketing experience.",
     "contact": {
@@ -46,6 +50,8 @@
     "logo":"https://i0.wp.com/techboard.com.au/wp-content/uploads/2018/08/cohort1-ids.png?fit=1071%2C250&ssl=1",
     "remote": "true",
     "fullTime": "false",
+        "experience": "2+ years of data analysis experience",
+
     "responsibility": "Analyze data sets, create visualizations, and present findings to stakeholders.",
     "requirements": "Bachelor's degree in Statistics or related field, proficiency in data analysis tools.",
     "contact": {
@@ -66,6 +72,8 @@
     "fullTime": "true",
     "responsibility": "Create visually appealing designs for various projects, collaborate with cross-functional teams.",
     "requirements": "Bachelor's degree in Graphic Design, proficiency in Adobe Creative Suite.",
+        "experience": "3+ years of graphic design experience",
+
     "contact": {
       "phone": "345-678-9012",
       "email": "design@creativedesigns.com"
@@ -82,6 +90,8 @@
     "logo": "https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/55acbb6cca9974b0854210bebc82bcce.jpg",
     "remote": "false",
     "fullTime": "true",
+        "experience": "4+ years of financial analysis experience",
+
     "responsibility": "Conduct financial forecasting, budgeting, and variance analysis.",
     "requirements": "Bachelor's degree in Finance, CFA or CPA certification preferred.",
     "contact": {
@@ -98,6 +108,8 @@
     "logo":"https://www.peoplefirsthr.com/wp-content/uploads/2022/04/PFHR-logo-2021.png",
     "company": "People First Corp.",
     "location": "Seattle, WA",
+        "experience": "5+ years of HR management experience",
+
     "remote": "true",
     "fullTime": "true",
     "responsibility": "Oversee recruitment, employee relations, and HR strategy development.",
@@ -118,6 +130,8 @@
     "logo": "https://sdvsolutions.us/wp-content/uploads/2021/02/SDV_Logo_RGBFade_NewTag_Final.png",
     "remote": "true",
     "fullTime": "true",
+        "experience": "2+ years of customer support experience",
+
     "responsibility": "Address customer inquiries, troubleshoot issues, and ensure customer satisfaction.",
     "requirements": "Excellent communication skills, previous customer support experience preferred.",
     "contact": {
@@ -136,6 +150,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF0Vuyg5Z1ervuTFab-mY8CWgHcLUzSaW38w&usqp=CAU",
     "remote": "true",
     "fullTime": "true",
+        "experience": "2+ years of sales represtative experience",
+
     "responsibility": "Generate leads, build relationships, and close sales deals.",
     "requirements": "Bachelor's degree in Business or related field, previous sales experience preferred.",
     "contact": {
