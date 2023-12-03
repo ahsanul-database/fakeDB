@@ -1,0 +1,77 @@
+[
+  {
+    "jobField": "Information Technology",
+    "availablePosts": 100,
+    "uniqueID": "IT123"
+  },
+  {
+    "jobField": "Healthcare",
+    "availablePosts": 120,
+    "uniqueID": "HC456"
+  },
+  {
+    "jobField": "Finance",
+    "availablePosts": 85,
+    "uniqueID": "FIN789"
+  },
+  {
+    "jobField": "Education",
+    "availablePosts": 90,
+    "uniqueID": "EDU101"
+  },
+  {
+    "jobField": "Engineering",
+    "availablePosts": 110,
+    "uniqueID": "ENG202"
+  },
+  {
+    "jobField": "Marketing",
+    "availablePosts": 95,
+    "uniqueID": "MKT303"
+  },
+  {
+    "jobField": "Sales",
+    "availablePosts": 130,
+    "uniqueID": "SAL404"
+  },
+  {
+    "jobField": "Human Resources",
+    "availablePosts": 80,
+    "uniqueID": "HR505"
+  },
+  {
+    "jobField": "Creative Arts",
+    "availablePosts": 100,
+    "uniqueID": "ART606"
+  },
+  {
+    "jobField": "Science and Research",
+    "availablePosts": 85,
+    "uniqueID": "SCI707"
+  },
+  {
+    "jobField": "Customer Service",
+    "availablePosts": 120,
+    "uniqueID": "CS808"
+  },
+  {
+    "jobField": "Manufacturing and Production",
+    "availablePosts": 95,
+    "uniqueID": "MFG909"
+  },
+  {
+    "jobField": "Legal",
+    "availablePosts": 110,
+    "uniqueID": "LAW1010"
+  },
+  {
+    "jobField": "Real Estate",
+    "availablePosts": 80,
+    "uniqueID": "RE1111"
+  },
+  {
+    "jobField": "Retail",
+    "availablePosts": 100,
+    "uniqueID": "RET1212"
+  }
+]
