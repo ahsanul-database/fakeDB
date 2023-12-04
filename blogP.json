@@ -2,7 +2,7 @@
   {
     "id": "blogJF-1",
     "author":"Ahsanul Hoque",
-    "profilePhoto": "https://drive.google.com/file/d/1gdYYFMRjHDyOyF4dK2fmyx-oSWy4JYqI/view",
+    "profilePhoto": "https://i.ibb.co/3RwF8SY/logo.png",
     "prop": "When-should-you-use-context-API",
     "title": "When should you use context API?",
     "image": "https://rolandguijt.com/content/images/2018/04/ContextTree.png",
@@ -10,6 +10,8 @@
   },
   {
     "id": "blogJF-2",
+    "author":"Ahsanul Hoque",
+    "profilePhoto": "https://i.ibb.co/3RwF8SY/logo.png",
     "prop": "What-is-a-custom-hook",
     "title": "What is a custom hook?",
     "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nKFPDda---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2800/0%2Aefj49Y4ARtOhLC0N",
@@ -17,6 +19,8 @@
   },
   {
     "id": "blogJF-3",
+    "author":"Ahsanul Hoque",
+    "profilePhoto": "https://i.ibb.co/3RwF8SY/logo.png",
     "prop": "What-is-useRef",
     "title": "What is useRef?",
     "image": "https://drek4537l1klr.cloudfront.net/larsen3/v-3/Figures/06_img_0004.png",
@@ -24,6 +28,8 @@
   },
   {
     "id": "blogJF-4",
+    "author":"Ahsanul Hoque",
+    "profilePhoto": "https://i.ibb.co/3RwF8SY/logo.png",
     "prop": "What-is-useMemo",
     "title": "What is useMemo?",
     "image": "https://i.morioh.com/210531/aa11e5c9.webp",
