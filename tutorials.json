@@ -7,17 +7,52 @@
     "classURL": "U4B5_MsM6kY"
   },
   {
-      "id": "OC-2",
-      "CourseName": "Object Oriented Programming",
-      "semester": 12,
-      "topic": "22-11-2023(Part II)",
-      "classURL": "Uo3WtiiUaco"
+    "id": "OC-2",
+    "CourseName": "Object Oriented Programming",
+    "semester": 12,
+    "topic": "22-11-2023(Part II)",
+    "classURL": "Uo3WtiiUaco"
   },
   {
-      "id": "OC-3",
-      "CourseName": "Economics",
-      "semester": 12,
-      "topic": "17/09/2023",
-      "classURL": "QIC2eUsJnXc"
+    "id": "OC-3",
+    "CourseName": "Economics",
+    "semester": 12,
+    "topic": "17/09/2023",
+    "classURL": "QIC2eUsJnXc"
+  },
+  {
+    "id": "OC-4",
+    "CourseName": "Data Structure",
+    "semester": 12,
+    "topic": "09/11/2023",
+    "classURL": "JLOGFdun5wE"
+  },
+  {
+    "id": "OC-5",
+    "CourseName": "Data Structure",
+    "semester": 12,
+    "topic": "06/11/2023",
+    "classURL": "-wlo9Guv3nM"
+  },
+  {
+    "id": "OC-6",
+    "CourseName": "Data Structure",
+    "semester": 12,
+    "topic": "05/10/2023",
+    "classURL": "cf7xXsR0uGM"
+  },
+  {
+    "id": "OC-7",
+    "CourseName": "Linear ALgebra",
+    "semester": 12,
+    "topic": "01/11/2023",
+    "classURL": "93ETVp6lG_M"
+  },
+  {
+    "id": "OC-8",
+    "CourseName": "Basic Electronics",
+    "semester": 12,
+    "topic": "31/10/2023",
+    "classURL": "2pFKmfZQ_z8"
   }
 ]
