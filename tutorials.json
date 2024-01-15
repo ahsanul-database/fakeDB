@@ -103,5 +103,19 @@
       "semester": 12,
       "topic": "20/09/2023(Part III)",
       "classURL": "Y0XFwGCXAsE"
+  },
+  {
+      "id": "OC-16",
+      "CourseName": "Data Structure",
+      "semester": 12,
+      "topic": "DFS",
+      "classURL": "AMJY7gGweLQ"
+  },
+  {
+      "id": "OC-17",
+      "CourseName": "Data Structure",
+      "semester": 12,
+      "topic": "BFS",
+      "classURL": "TEzgeUogELQ"
   }
 ]
