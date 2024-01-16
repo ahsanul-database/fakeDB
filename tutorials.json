@@ -138,5 +138,33 @@
     "semester": 12,
     "topic": "26/11/2023",
     "classURL": "WwacsnGk4iU"
+  },
+  {
+    "id": "OC-21",
+    "CourseName": "Object Oriented Programming",
+    "semester": 12,
+    "topic": "31st December 2023",
+    "classURL": "orZwRQhLYmA"
+  },
+  {
+    "id": "OC-22",
+    "CourseName": "Basic Electronics",
+    "semester": 12,
+    "topic": "05-December-2023",
+    "classURL": "S17oreeyLF4"
+  },
+  {
+    "id": "OC-23",
+    "CourseName": "Basic Electronics",
+    "semester": 12,
+    "topic": "10-october-2023",
+    "classURL": "Rxh_XjWoY10"
+  },
+  {
+    "id": "OC-24",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "08 January 2024",
+    "classURL": "xFCZZjyUNhs"
   }
 ]
