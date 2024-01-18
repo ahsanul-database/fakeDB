@@ -3,105 +3,120 @@
     "id": "OC-1",
     "CourseName": "Object Oriented Programming",
     "semester": 12,
-    "topic": "22-11-2023 (Part I)",
+    "topic": "Constructor,Operator Overloading",
+    "date": "22-11-2023 (Part I)",
     "classURL": "U4B5_MsM6kY"
   },
   {
     "id": "OC-2",
     "CourseName": "Object Oriented Programming",
     "semester": 12,
-    "topic": "22-11-2023(Part II)",
+    "topic": "Binary Operator Overloading",
+    "date": "22-11-2023(Part II)",
     "classURL": "Uo3WtiiUaco"
   },
   {
     "id": "OC-3",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "17/09/2023",
+    "topic": "Demand",
+    "date": "17/09/2023",
     "classURL": "QIC2eUsJnXc"
   },
   {
     "id": "OC-4",
     "CourseName": "Data Structure",
     "semester": 12,
-    "topic": "09/11/2023",
+    "topic": "Queue,Linked List",
+    "date": "09/11/2023",
     "classURL": "JLOGFdun5wE"
   },
   {
     "id": "OC-5",
     "CourseName": "Data Structure",
     "semester": 12,
-    "topic": "06/11/2023",
+    "topic": "Notation(Infix,Prefix,Postfix),Stack",
+    "date": "06/11/2023",
     "classURL": "-wlo9Guv3nM"
   },
   {
     "id": "OC-6",
     "CourseName": "Data Structure",
     "semester": 12,
-    "topic": "05/10/2023",
+    "topic": "Array Subscription,Complexiity,Linear Search",
+    "date": "05/10/2023",
     "classURL": "cf7xXsR0uGM"
   },
   {
     "id": "OC-7",
     "CourseName": "Linear ALgebra",
     "semester": 12,
-    "topic": "01/11/2023",
+    "topic": "Linear Combination,Dependence & Independence",
+    "date": "01/11/2023",
     "classURL": "93ETVp6lG_M"
   },
   {
     "id": "OC-8",
     "CourseName": "Basic Electronics",
     "semester": 12,
-    "topic": "31/10/2023",
+    "topic": "Q-point,Biasing a Transistor(58.3),Amplifier classification(60.13)",
+    "date": "31/10/2023",
     "classURL": "2pFKmfZQ_z8"
   },
   {
     "id": "OC-9",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "10/10/2023",
+    "topic": "Macroeconomic Variable",
+    "date": "10/10/2023",
     "classURL": "eLbTVN0Og3Q"
   },
   {
     "id": "OC-10",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "03/10/2023",
+    "topic": "Production function,Market",
+    "date": "03/10/2023",
     "classURL": "kCqqmYqAiuY"
   },
   {
     "id": "OC-11",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "26/09/2023",
+    "topic": "Theory of cost,Theory of production",
+    "date": "26/09/2023",
     "classURL": "FiNMJUSD3z0"
   },
   {
     "id": "OC-12",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "24/09/2023",
+    "topic": "Utility,Indeference carve,Budget constant line,consumer equilibrium",
+    "date": "24/09/2023",
     "classURL": "aye5GiRU6lY"
   },
   {
     "id": "OC-13",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "20/09/2023(Part I)",
+    "topic": "Economics,PPF,Demand",
+    "date": "20/09/2023(Part I)",
     "classURL": "DWqiDUnt0VA"
   },
   {
     "id": "OC-14",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "20/09/2023(Part II)",
+    "topic": "Demand function,Demand curve",
+    "date": "20/09/2023(Part II)",
     "classURL": "vz01Rg2sMqw"
   },
   {
     "id": "OC-15",
     "CourseName": "Economics",
     "semester": 12,
-    "topic": "20/09/2023(Part III)",
+    "topic": "Classification of Elasticity,Price and income elasticity optimal",
+    "date": "20/09/2023(Part III)",
     "classURL": "Y0XFwGCXAsE"
   },
   {
@@ -109,6 +124,7 @@
     "CourseName": "Data Structure",
     "semester": 12,
     "topic": "DFS",
+    "date": "DFS",
     "classURL": "AMJY7gGweLQ"
   },
   {
@@ -116,6 +132,7 @@
     "CourseName": "Data Structure",
     "semester": 12,
     "topic": "BFS",
+    "date": "BFS",
     "classURL": "TEzgeUogELQ"
   },
   {
@@ -123,6 +140,7 @@
     "CourseName": "Basic Electronics",
     "semester": 12,
     "topic": "05/10/2023",
+    "date": "05/10/2023",
     "classURL": "4ZDxcQbssBo"
   },
   {
@@ -130,6 +148,7 @@
     "CourseName": "Basic Electronics",
     "semester": 12,
     "topic": "09/11/2023",
+    "date": "09/11/2023",
     "classURL": "aZjWSq0mLiQ"
   },
   {
@@ -137,6 +156,7 @@
     "CourseName": "Basic Electronics",
     "semester": 12,
     "topic": "26/11/2023",
+    "date": "26/11/2023",
     "classURL": "WwacsnGk4iU"
   },
   {
@@ -144,6 +164,7 @@
     "CourseName": "Object Oriented Programming",
     "semester": 12,
     "topic": "31st December 2023",
+    "date": "31st December 2023",
     "classURL": "orZwRQhLYmA"
   },
   {
@@ -151,6 +172,7 @@
     "CourseName": "Basic Electronics",
     "semester": 12,
     "topic": "05-December-2023",
+    "date": "05-December-2023",
     "classURL": "S17oreeyLF4"
   },
   {
@@ -158,6 +180,7 @@
     "CourseName": "Basic Electronics",
     "semester": 12,
     "topic": "10-october-2023",
+    "date": "10-october-2023",
     "classURL": "Rxh_XjWoY10"
   },
   {
@@ -165,6 +188,7 @@
     "CourseName": "Discrete Mathematics",
     "semester": 12,
     "topic": "08 January 2024",
+    "date": "08 January 2024",
     "classURL": "xFCZZjyUNhs"
   },
   {
@@ -172,6 +196,7 @@
     "CourseName": "Basic Electronics",
     "semester": 12,
     "topic": "05/11/2023",
+    "date": "05/11/2023",
     "classURL": "ZhDTWbu6Iqw"
   }
 ]
