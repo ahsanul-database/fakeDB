@@ -198,5 +198,77 @@
     "topic": "05/11/2023",
     "date": "05/11/2023",
     "classURL": "ZhDTWbu6Iqw"
+  },
+  {
+    "id": "OC-26",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "11/01/2024",
+    "date": "11/01/2023",
+    "classURL": "JJkjha4Bzf0"
+  },
+  {
+    "id": "OC-27",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "08/01/2024",
+    "date": "08/01/2024",
+    "classURL": "DNudxsgQ9CE"
+  },
+  {
+    "id": "OC-28",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "27/11/2023",
+    "date": "27/11/2023",
+    "classURL": "MD9p_x-yEek"
+  },
+  {
+    "id": "OC-29",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "23/11/2023",
+    "date": "23/11/2023",
+    "classURL": "0sVmwgDF7hU"
+  },
+  {
+    "id": "OC-30",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "22/11/2023",
+    "date": "22/11/2023",
+    "classURL": "1xVpM3Q2Nr4"
+  },
+  {
+    "id": "OC-31",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "19/11/2023",
+    "date": "19/11/2023",
+    "classURL": "QkQvyYKDU7g"
+  },
+  {
+    "id": "OC-32",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "05/11/2023",
+    "date": "05/11/2023",
+    "classURL": "Kw8C-_j4w-U"
+  },
+  {
+    "id": "OC-33",
+    "CourseName": "Discrete Mathematics",
+    "semester": 12,
+    "topic": "01/11/2023",
+    "date": "01/11/2023",
+    "classURL": "6ciPPDVr9xc"
+  },
+  {
+    "id": "OC-34",
+    "CourseName": "Basic Electronics Lab",
+    "semester": 12,
+    "topic": "Lab Initiation",
+    "date": "01/11/2023",
+    "classURL": "xMp62ygGrW4"
   }
 ]
