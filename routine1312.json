@@ -43,5 +43,10 @@
             "date": "04/03/2024",
             "courseCode": "CSEL-1202",
             "courseName": "Object Oriented Programming Lab"
+        }, {
+            "date": "06/03/2024",
+            "courseCode": "CSEV-1210",
+            "courseName": "Viva-voce"
         }
+        
 ]
