@@ -1,423 +1,482 @@
 [
-  {
-    "author": "Ahsanul Hoque Abir",
-    "id": "B210305040",
-    "courseName": "Object Oriented Programming",
-    "topic": "Chapter 5 - Classes and Objects",
-    "link": "https://github.com/ahsanulhoqueabir/OOP_with_CPP/blob/main/Chapter%205%20-%20Classes%20and%20Objects/Class_and_Objects.md"
-  },
-  {
-    "author": "Ahsanul Hoque Abir",
-    "id": "B210305040",
-    "courseName": "Object Oriented Programming",
-    "topic": "Chapter 6 - Contstructor and Destructure",
-    "link": "https://github.com/ahsanulhoqueabir/OOP_with_CPP/blob/main/Chapter%206%20-%20Contstructor%20and%20Destructure/ConstructorAndDestructors.md"
-  },
-  {
-    "author": "Mohammad fatin Nur",
-    "id": "B210305021",
-    "courseName": "Object Oriented Programming",
-    "topic": "Chapter 6 - 8",
-    "link": "https://fatin07.notion.site/OOP-Chapter-6-8-b61f1c5237d7414d82aee9f91a2ac119"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lecture-04 : String",
-    "link": "https://drive.google.com/file/d/12t_MakREmU9b98dbesamlZ3VTlpF9k14/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lecture-05 : Array",
-    "link": "https://drive.google.com/file/d/1O1fEQ-JrXgRKCxVHm5tSGDaP4hu8I0sR/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lecture-06 : Array",
-    "link": "https://drive.google.com/file/d/1aFEPu-hvpwgxsAqaWopXCFvtAs-28qUG/view?usp=drive_link"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure Lab",
-    "topic": "Lab Prctice",
-    "link": "https://drive.google.com/file/d/1LMq0Twzsq7YgsO4jy2R_bdbjY80mErYF/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lecture-12 : Stack Post Evaluation",
-    "link": "https://drive.google.com/file/d/1Fwyoj60xVHZz08c73cQW7EJ1ZfrAKJN2/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lecture-13 : Queue",
-    "link": "https://drive.google.com/file/d/1TE9FCnjLQsHdShInYFky_SsTix03y-Of/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lecture-14: Linked List",
-    "link": "https://drive.google.com/file/d/1ec9kqZ37zY43j68MT7VYxWCoUWCzV2n6/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Stack Part II",
-    "link": "https://drive.google.com/file/d/1fqKpPbuFLFqmWhOD81d9XCx2XXbcRa9M/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Stack Part III",
-    "link": "https://drive.google.com/file/d/1sv86O64LQVaXkJ2PoyQlPU6PmthWpURr/view?usp=sharing"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "BFS",
-    "link": "https://drive.google.com/file/d/1UXPIr8nPSb-fI9ZfpXE-kNWNhdgf99Yz/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "BFS",
-    "link": "https://drive.google.com/file/d/1e47RX6mZ-NuaWP6QK5e0MCB70SA86RpW/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Graph and Its Applications",
-    "link": "https://drive.google.com/file/d/1r618woVfYKEVyLQoP_sH-uBLWpdIlv-T/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Sorting",
-    "link": "https://drive.google.com/file/d/1wl0XcDT5Fslfg0KZ0dDEhdmNNd3hJudt/view?usp=drivesdk"
-  },
-
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "DFS",
-    "link": "https://drive.google.com/file/d/1RVjGlPuvl9KQDpudOgX4GUBvLWgaIJMK/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lab Practice",
-    "link": "https://drive.google.com/file/d/1LMq0Twzsq7YgsO4jy2R_bdbjY80mErYF/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Heapsort and Heap",
-    "link": "https://drive.google.com/file/d/1QD_iUskxXWF8sI98vnK_UJO_McMm46CF/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Heap",
-    "link": "https://drive.google.com/file/d/1owec2bwSCLxQfeEDlJamatVL3tCDGAOJ/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "General Tree",
-    "link": "https://drive.google.com/file/d/1up27MC2yrhuV6eLc2SEdrFLNdO4bpAIT/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Huffman Tree",
-    "link": "https://drive.google.com/file/d/1GrEF3YPac3bAlmeKZFXcSawjoSJmuV1Y/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Tree 1",
-    "link": "https://drive.google.com/file/d/1rotF-QUug_INm7Hp1yJ5kHUUSrQrkasb/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "BST",
-    "link": "https://drive.google.com/file/d/1eLm-h9mPrL4qd03dppj97VQilRv5dr54/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "DSA Lec-05",
-    "link": "https://drive.google.com/file/d/1O1fEQ-JrXgRKCxVHm5tSGDaP4hu8I0sR/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Binary Insertion",
-    "link": "https://drive.google.com/file/d/12WSvd6bwfcaVfSrndZB1STMZu7uZ8gKO/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "DSA Lec-04",
-    "link": "https://drive.google.com/file/d/12t_MakREmU9b98dbesamlZ3VTlpF9k14/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "DSA Lec-06",
-    "link": "https://drive.google.com/file/d/1aFEPu-hvpwgxsAqaWopXCFvtAs-28qUG/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Sort",
-    "link": "https://drive.google.com/file/d/1lKw6T8sX2kshqNxZDC0khx9GRSEtBxJi/view?usp=drivesdk"
-  },
-  {
-    "author": "Arnisha Mam",
-    "id": "B21030502207",
-    "courseName": "Data Structure",
-    "topic": "Lecture-8.2 array2D ",
-    "link": "https://drive.google.com/file/d/1uWhs9-j9fvTPXFfYU1M3R9X08ze6wiQn/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Chapter 3 – Propositional",
-    "link": "https://drive.google.com/file/d/16FXv3FtBKNNVSPZ6r-gkmjMoWsD003Xs/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Chapter 1 – Propositional",
-    "link": "https://drive.google.com/file/d/13uONaLCJ1Vv_tb5Ec8q20ewygOzuEy_3/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Predicates and Quantifiers",
-    "link": "https://drive.google.com/file/d/1h8cyJJ7_cZCDeRaEtBWudSeqwj7VL4uf/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Introduction",
-    "link": "https://drive.google.com/file/d/1QdgAThU4qJx_xDEAWSH2ocMdOuFVvgv0/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Sets",
-    "link": "https://drive.google.com/file/d/1Q6tYQusm-RwPcWE4F5eZd8BW9LzRC__I/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Relation",
-    "link": "https://drive.google.com/file/d/17xaIfgnq5ZjHLBgZK96YY484wX4euO5u/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Functions",
-    "link": "https://drive.google.com/file/d/1Tamp2emDm668kkxbR2mdGjv1p0JVHhpk/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Mathematical Induction",
-    "link": "https://drive.google.com/file/d/1YqV1_jR41_BtICL5bX_NbA9drYZZRkdQ/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Rules of Inference",
-    "link": "https://drive.google.com/file/d/1nGMH34D99ReYzL3SWUYguWqnl2efJv2f/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Chapter 4 – Propositional",
-    "link": "https://drive.google.com/file/d/1sU3ujQQ4ZKLu2YSalIH-kKKlvgOU0l5l/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Lecture 5",
-    "link": "https://drive.google.com/file/d/1mVvP5Q07Eq34tEyraCQZAJ8nB64L58mj/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Graph Terminology and Special Types of Graphs",
-    "link": "https://drive.google.com/file/d/1urRi4V8KhuOA9B-K1nrlDOw_88Q3zbec/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Bipartite Graphs",
-    "link": "https://drive.google.com/file/d/1AFYogKkLBUYZy9uBdDCDyBivgGmeipJe/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Graph Isomorphism",
-    "link": "https://drive.google.com/file/d/1lkJc2OzDtwgASPEe3WLs_9i4iqpRWdrN/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Representing Graphs",
-    "link": "https://drive.google.com/file/d/1LWVyPwGx5hD6r7Fp5Bo9hDiWSvvjZtZx/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Connectivity",
-    "link": "https://drive.google.com/file/d/1OGglwHcIl9QIxTmtJo383RRq9bZpxp97/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Euler Paths",
-    "link": "https://drive.google.com/file/d/1sqmu3kfwXSQhzL0DYjHWhOcjR6-aqxqw/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "The Mathematics of Touring",
-    "link": "https://drive.google.com/file/d/1qRNroJ8D9Zhmk4DqFLlABSoliLLklxXd/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Tree Traversal",
-    "link": "https://drive.google.com/file/d/1wg4NbWJvxocYaBP4DeexsNfA3ivOMBtg/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Introduction to Trees",
-    "link": "https://drive.google.com/file/d/1wcZn6ow21UFmWesvJy3c5fsIhowShnla/view?usp=drivesdk"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "CSE-1208",
-    "courseName": "Discrete Mathematics",
-    "topic": "Counting",
-    "link": "https://drive.google.com/file/d/1_8L5PB0cBY6VC_ne3wxhXm9qZyn3vAaY/view?usp=drivesdk"
-  },
-  {
-    "author": "Al Amin Sir",
-    "id": "CSE-1205",
-    "courseName": "Basic Electronics",
-    "topic": "Text Book",
-    "link": "https://drive.google.com/file/d/1WMn0fH6txxcb22a-VucU3dwKzVM7olpt/view"
-  },
-  {
-    "author": "Aminul Sir",
-    "id": "1201",
-    "courseName": "Object Oriented Programming",
-    "topic": "Text Book",
-    "link": "https://drive.google.com/file/d/1cR2Ep9tWVz5BcahzzosP4RMNMCFi70P9/view?usp=sharing"
-  },
-  {
-    "author": "Farhana Mam",
-    "id": "1207",
-    "courseName": "Linear Algebra",
-    "topic": "Text Book",
-    "link": "https://drive.google.com/file/d/1mh6VvbyZNfIfYQBzLtX_0l7nDNbF4ITP/view?usp=sharing"
-  },
-  {
-    "author": "Robiul Sir",
-    "id": "1209",
-    "courseName": "Economics",
-    "topic": "Market Structure and Price Determination",
-    "link": "https://docs.google.com/presentation/d/1uVyI7Uu6EiDgLCkEKpMXwmHrDq_C-yY5/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
-  },
-  {
-    "author": "Robiul Sir",
-    "id": "1209",
-    "courseName": "Economics",
-    "topic": "Theory of Cost and Production Analysis",
-    "link": "https://docs.google.com/presentation/d/1O8nY7gAk7S4_B6A--n6S5C2l1YNEvRT6/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
-  },
-  {
-    "author": "Robiul Sir",
-    "id": "1209",
-    "courseName": "Economics",
-    "topic": "Consumer Behavior and Demand",
-    "link": "https://docs.google.com/presentation/d/11-2rafTT91ASIjAc9knhNCtxHPc-9_X7/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
-  },
-  {
-    "author": "Robiul Sir",
-    "id": "1209",
-    "courseName": "Economics",
-    "topic": "Introduction, Demand, Supply and Equilibrium",
-    "link": "https://docs.google.com/presentation/d/1cR0hYSkXNlJGO59_oh_eCQgRouL30Ej2/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
-  },
-  {
-    "author": "Robiul Sir",
-    "id": "1209",
-    "courseName": "Economics",
-    "topic": "Macroeconomic Variables",
-    "link": "https://docs.google.com/presentation/d/1o5I0_E1VY8lSGS_zWxjongA1aojfY2JY/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
-  },
-  {
-    "author": "Selina Mam",
-    "id": "1204",
-    "courseName": "Discrete Mathematics",
-    "topic": "Proof Methods",
-    "link": "https://drive.google.com/file/d/1SWsK_FHvGcA5QKAhew6-duX-97H-yms_/view?usp=sharing"
-  }
+{
+"_id": "65df2c5e32ad4dafae1cd81e",
+"author": "Ahsanul Hoque Abir",
+"id": "B210305040",
+"courseName": "Object Oriented Programming",
+"topic": "Chapter 5 - Classes and Objects",
+"link": "https://github.com/ahsanulhoqueabir/OOP_with_CPP/blob/main/Chapter%205%20-%20Classes%20and%20Objects/Class_and_Objects.md"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd81f",
+"author": "Ahsanul Hoque Abir",
+"id": "B210305040",
+"courseName": "Object Oriented Programming",
+"topic": "Chapter 6 - Contstructor and Destructure",
+"link": "https://github.com/ahsanulhoqueabir/OOP_with_CPP/blob/main/Chapter%206%20-%20Contstructor%20and%20Destructure/ConstructorAndDestructors.md"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd820",
+"author": "Mohammad fatin Nur",
+"id": "B210305021",
+"courseName": "Object Oriented Programming",
+"topic": "Chapter 6 - 8",
+"link": "https://fatin07.notion.site/OOP-Chapter-6-8-b61f1c5237d7414d82aee9f91a2ac119"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd821",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lecture-04 : String",
+"link": "https://drive.google.com/file/d/12t_MakREmU9b98dbesamlZ3VTlpF9k14/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd822",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lecture-05 : Array",
+"link": "https://drive.google.com/file/d/1O1fEQ-JrXgRKCxVHm5tSGDaP4hu8I0sR/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd823",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lecture-06 : Array",
+"link": "https://drive.google.com/file/d/1aFEPu-hvpwgxsAqaWopXCFvtAs-28qUG/view?usp=drive_link"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd824",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure Lab",
+"topic": "Lab Prctice",
+"link": "https://drive.google.com/file/d/1LMq0Twzsq7YgsO4jy2R_bdbjY80mErYF/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd825",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lecture-12 : Stack Post Evaluation",
+"link": "https://drive.google.com/file/d/1Fwyoj60xVHZz08c73cQW7EJ1ZfrAKJN2/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd826",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lecture-13 : Queue",
+"link": "https://drive.google.com/file/d/1TE9FCnjLQsHdShInYFky_SsTix03y-Of/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd827",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lecture-14: Linked List",
+"link": "https://drive.google.com/file/d/1ec9kqZ37zY43j68MT7VYxWCoUWCzV2n6/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd828",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Stack Part II",
+"link": "https://drive.google.com/file/d/1fqKpPbuFLFqmWhOD81d9XCx2XXbcRa9M/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd829",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Stack Part III",
+"link": "https://drive.google.com/file/d/1sv86O64LQVaXkJ2PoyQlPU6PmthWpURr/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd82a",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "BFS",
+"link": "https://drive.google.com/file/d/1UXPIr8nPSb-fI9ZfpXE-kNWNhdgf99Yz/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd82b",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "BFS",
+"link": "https://drive.google.com/file/d/1e47RX6mZ-NuaWP6QK5e0MCB70SA86RpW/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd82c",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Graph and Its Applications",
+"link": "https://drive.google.com/file/d/1r618woVfYKEVyLQoP_sH-uBLWpdIlv-T/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd82d",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Sorting",
+"link": "https://drive.google.com/file/d/1wl0XcDT5Fslfg0KZ0dDEhdmNNd3hJudt/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd82e",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "DFS",
+"link": "https://drive.google.com/file/d/1RVjGlPuvl9KQDpudOgX4GUBvLWgaIJMK/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd82f",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lab Practice",
+"link": "https://drive.google.com/file/d/1LMq0Twzsq7YgsO4jy2R_bdbjY80mErYF/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd830",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Heapsort and Heap",
+"link": "https://drive.google.com/file/d/1QD_iUskxXWF8sI98vnK_UJO_McMm46CF/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd831",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Heap",
+"link": "https://drive.google.com/file/d/1owec2bwSCLxQfeEDlJamatVL3tCDGAOJ/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd832",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "General Tree",
+"link": "https://drive.google.com/file/d/1up27MC2yrhuV6eLc2SEdrFLNdO4bpAIT/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd833",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Huffman Tree",
+"link": "https://drive.google.com/file/d/1GrEF3YPac3bAlmeKZFXcSawjoSJmuV1Y/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd834",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Tree 1",
+"link": "https://drive.google.com/file/d/1rotF-QUug_INm7Hp1yJ5kHUUSrQrkasb/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd835",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "BST",
+"link": "https://drive.google.com/file/d/1eLm-h9mPrL4qd03dppj97VQilRv5dr54/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd836",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "DSA Lec-05",
+"link": "https://drive.google.com/file/d/1O1fEQ-JrXgRKCxVHm5tSGDaP4hu8I0sR/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd837",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Binary Insertion",
+"link": "https://drive.google.com/file/d/12WSvd6bwfcaVfSrndZB1STMZu7uZ8gKO/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd838",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "DSA Lec-04",
+"link": "https://drive.google.com/file/d/12t_MakREmU9b98dbesamlZ3VTlpF9k14/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd839",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "DSA Lec-06",
+"link": "https://drive.google.com/file/d/1aFEPu-hvpwgxsAqaWopXCFvtAs-28qUG/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd83a",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Sort",
+"link": "https://drive.google.com/file/d/1lKw6T8sX2kshqNxZDC0khx9GRSEtBxJi/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd83b",
+"author": "Arnisha Mam",
+"id": "B21030502207",
+"courseName": "Data Structure",
+"topic": "Lecture-8.2 array2D ",
+"link": "https://drive.google.com/file/d/1uWhs9-j9fvTPXFfYU1M3R9X08ze6wiQn/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd83c",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Chapter 3 – Propositional",
+"link": "https://drive.google.com/file/d/16FXv3FtBKNNVSPZ6r-gkmjMoWsD003Xs/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd83d",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Chapter 1 – Propositional",
+"link": "https://drive.google.com/file/d/13uONaLCJ1Vv_tb5Ec8q20ewygOzuEy_3/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd83e",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Predicates and Quantifiers",
+"link": "https://drive.google.com/file/d/1h8cyJJ7_cZCDeRaEtBWudSeqwj7VL4uf/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd83f",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Introduction",
+"link": "https://drive.google.com/file/d/1QdgAThU4qJx_xDEAWSH2ocMdOuFVvgv0/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd840",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Sets",
+"link": "https://drive.google.com/file/d/1Q6tYQusm-RwPcWE4F5eZd8BW9LzRC__I/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd841",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Relation",
+"link": "https://drive.google.com/file/d/17xaIfgnq5ZjHLBgZK96YY484wX4euO5u/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd842",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Functions",
+"link": "https://drive.google.com/file/d/1Tamp2emDm668kkxbR2mdGjv1p0JVHhpk/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd843",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Mathematical Induction",
+"link": "https://drive.google.com/file/d/1YqV1_jR41_BtICL5bX_NbA9drYZZRkdQ/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd844",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Rules of Inference",
+"link": "https://drive.google.com/file/d/1nGMH34D99ReYzL3SWUYguWqnl2efJv2f/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd845",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Chapter 4 – Propositional",
+"link": "https://drive.google.com/file/d/1sU3ujQQ4ZKLu2YSalIH-kKKlvgOU0l5l/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd846",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Lecture 5",
+"link": "https://drive.google.com/file/d/1mVvP5Q07Eq34tEyraCQZAJ8nB64L58mj/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd847",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Graph Terminology and Special Types of Graphs",
+"link": "https://drive.google.com/file/d/1urRi4V8KhuOA9B-K1nrlDOw_88Q3zbec/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd848",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Bipartite Graphs",
+"link": "https://drive.google.com/file/d/1AFYogKkLBUYZy9uBdDCDyBivgGmeipJe/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd849",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Graph Isomorphism",
+"link": "https://drive.google.com/file/d/1lkJc2OzDtwgASPEe3WLs_9i4iqpRWdrN/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd84a",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Representing Graphs",
+"link": "https://drive.google.com/file/d/1LWVyPwGx5hD6r7Fp5Bo9hDiWSvvjZtZx/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd84b",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Connectivity",
+"link": "https://drive.google.com/file/d/1OGglwHcIl9QIxTmtJo383RRq9bZpxp97/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd84c",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Euler Paths",
+"link": "https://drive.google.com/file/d/1sqmu3kfwXSQhzL0DYjHWhOcjR6-aqxqw/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd84d",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "The Mathematics of Touring",
+"link": "https://drive.google.com/file/d/1qRNroJ8D9Zhmk4DqFLlABSoliLLklxXd/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd84e",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Tree Traversal",
+"link": "https://drive.google.com/file/d/1wg4NbWJvxocYaBP4DeexsNfA3ivOMBtg/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd84f",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Introduction to Trees",
+"link": "https://drive.google.com/file/d/1wcZn6ow21UFmWesvJy3c5fsIhowShnla/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd850",
+"author": "Selina Mam",
+"id": "CSE-1208",
+"courseName": "Discrete Mathematics",
+"topic": "Counting",
+"link": "https://drive.google.com/file/d/1_8L5PB0cBY6VC_ne3wxhXm9qZyn3vAaY/view?usp=drivesdk"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd851",
+"author": "Al Amin Sir",
+"id": "CSE-1205",
+"courseName": "Basic Electronics",
+"topic": "Text Book",
+"link": "https://drive.google.com/file/d/1WMn0fH6txxcb22a-VucU3dwKzVM7olpt/view"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd852",
+"author": "Aminul Sir",
+"id": "1201",
+"courseName": "Object Oriented Programming",
+"topic": "Text Book",
+"link": "https://drive.google.com/file/d/1cR2Ep9tWVz5BcahzzosP4RMNMCFi70P9/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd853",
+"author": "Farhana Mam",
+"id": "1207",
+"courseName": "Linear Algebra",
+"topic": "Text Book",
+"link": "https://drive.google.com/file/d/1mh6VvbyZNfIfYQBzLtX_0l7nDNbF4ITP/view?usp=sharing"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd854",
+"author": "Robiul Sir",
+"id": "1209",
+"courseName": "Economics",
+"topic": "Market Structure and Price Determination",
+"link": "https://docs.google.com/presentation/d/1uVyI7Uu6EiDgLCkEKpMXwmHrDq_C-yY5/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd855",
+"author": "Robiul Sir",
+"id": "1209",
+"courseName": "Economics",
+"topic": "Theory of Cost and Production Analysis",
+"link": "https://docs.google.com/presentation/d/1O8nY7gAk7S4_B6A--n6S5C2l1YNEvRT6/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd856",
+"author": "Robiul Sir",
+"id": "1209",
+"courseName": "Economics",
+"topic": "Consumer Behavior and Demand",
+"link": "https://docs.google.com/presentation/d/11-2rafTT91ASIjAc9knhNCtxHPc-9_X7/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd857",
+"author": "Robiul Sir",
+"id": "1209",
+"courseName": "Economics",
+"topic": "Introduction, Demand, Supply and Equilibrium",
+"link": "https://docs.google.com/presentation/d/1cR0hYSkXNlJGO59_oh_eCQgRouL30Ej2/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd858",
+"author": "Robiul Sir",
+"id": "1209",
+"courseName": "Economics",
+"topic": "Macroeconomic Variables",
+"link": "https://docs.google.com/presentation/d/1o5I0_E1VY8lSGS_zWxjongA1aojfY2JY/edit?usp=drivesdk&ouid=101127065767006576429&rtpof=true&sd=true"
+},
+{
+"_id": "65df2c5e32ad4dafae1cd859",
+"author": "Selina Mam",
+"id": "1204",
+"courseName": "Discrete Mathematics",
+"topic": "Proof Methods",
+"link": "https://drive.google.com/file/d/1SWsK_FHvGcA5QKAhew6-duX-97H-yms_/view?usp=sharing"
+}
 ]
